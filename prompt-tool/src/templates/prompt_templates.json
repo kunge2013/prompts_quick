@@ -1,0 +1,14 @@
+[
+  {
+    "name": "诗词模板",
+    "shortcut": "ctrl+alt+p",
+    "template": "请帮我写一首关于{主题}的诗，风格为{风格}，长度为{长度}句。",
+    "variables": ["主题", "风格", "长度"]
+  },
+  {
+    "name": "通用问答",
+    "shortcut": "ctrl+alt+q",
+    "template": "请回答关于{问题}的详细内容。",
+    "variables": ["问题"]
+  }
+]

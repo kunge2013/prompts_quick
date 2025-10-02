@@ -1,0 +1,5 @@
+Flask
+keyboard
+pyperclip
+pynput
+pytest
