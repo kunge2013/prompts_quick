@@ -1,5 +1,5 @@
-from prompt_service import servicePromptService
-from shortcut_manager import ShortcutManager
+from services.prompt_service import PromptService
+from utils.shortcut_manager import ShortcutManager
 
 def main():
     shortcut_manager = ShortcutManager()

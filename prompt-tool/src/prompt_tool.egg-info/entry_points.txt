@@ -1,0 +1,2 @@
+[console_scripts]
+prompt-tool = main:main

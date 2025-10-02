@@ -1,0 +1,11 @@
+README.md
+setup.py
+src/prompt_tool.egg-info/PKG-INFO
+src/prompt_tool.egg-info/SOURCES.txt
+src/prompt_tool.egg-info/dependency_links.txt
+src/prompt_tool.egg-info/entry_points.txt
+src/prompt_tool.egg-info/top_level.txt
+src/services/__init__.py
+src/services/prompt_service.py
+src/utils/__init__.py
+src/utils/shortcut_manager.py
